@@ -530,3 +530,22 @@ footer{border-color:rgba(255,255,255,.09);color:#7f8897}
 </script>
 </body>
 </html>
+# Ahmed Sharif — Engineering Portfolio
+
+Mechanical engineering project portfolio featuring hands-on work with Arduino, sensors, embedded systems, robotics, and physical prototyping.
+
+## Live Website
+
+[View my engineering portfolio](https://ahmedmsharif11.github.io/EngineeringPortfolio/)
+
+## Projects
+
+- 8×8 Pong vs. AI
+- Smart Safe
+- Ultrasonic Radar
+- Reaction-Time Game
+- Automatic Trash Can
+
+## About
+
+I am a Mechanical Engineering student at Yale interested in robotics, mechanical design, embedded systems, and engineering applications of computation and data. These projects document my progression from individual electronics exercises to integrated systems that combine sensing, code, feedback, and motion.
