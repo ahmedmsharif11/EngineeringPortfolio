@@ -43,16 +43,3 @@ No installation, dependencies, or build process are required.
 I'm a Mechanical Engineering student at Yale with interests in robotics, mechanical design, embedded systems, and the use of data and computation in engineering.
 
 I built these projects as part of my effort to develop practical engineering skills through experimentation, iteration, and hands-on work.
-
-I especially like that README for you because it doesn't claim you're an expert at everything. It shows that you're actively developing real engineering skills, while still making clear that you've actually built working systems.
-
-How to run the website
-
-Because I made your site completely self-contained, running it is extremely simple.
-
-If your folder looks like:
-
-yourusername.github.io/
-│
-├── index.html
-└── README.md
